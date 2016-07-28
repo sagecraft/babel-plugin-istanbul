@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "find-up": "^1.1.2",
-    "istanbul-lib-instrument": "^1.1.0-alpha.4",
+    "istanbul-lib-instrument": "github:tuckerconnelly/istanbul-lib-instrument#issue/fix-rewire",
     "test-exclude": "^1.1.0"
   },
   "devDependencies": {
